@@ -1,0 +1,21 @@
+# ==== BUILD ARTIFACTS ====
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+build/
+*.dSYM/
+
+# ==== EDITOR / OS FILES ====
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==== LOGS / TEMP ====
+*.log
+*.tmp
