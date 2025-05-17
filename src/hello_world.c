@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("hello, world"); /*canonical hello world example*/
+    printf("hello, world\n"); /*canonical hello world example*/
     return 0;
 }
