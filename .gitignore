@@ -1,0 +1,23 @@
+# ---------- BUILD ARTIFACTS ----------
+*.o              # object files
+*.out            # executables you name *.out
+*.a              # static libraries
+*.so             # shared libs (Linux)
+*.dylib          # shared libs (macOS)
+build/           # a build directory, if you use one
+*.dSYM/          # macOS crash-debug directories
+
+# ---------- EDITOR / TOOLING JUNK ----------
+*~               # Vim / Emacs swap files
+*.swp
+.idea/           # JetBrains IDEs
+.vscode/         # VS Code workspace settings
+.DS_Store        # macOS Finder metadata
+Thumbs.db        # Windows Explorer metadata
+
+# ---------- LOGS / TEMP ----------
+*.log
+*.tmp
+
+
+
